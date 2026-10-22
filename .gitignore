@@ -1,3 +1,25 @@
+# Operating system files
 .DS_Store
+Thumbs.db
+Desktop.ini
+
+# C/C++ build output
 *.o
+*.obj
+*.exe
+*.out
 a.out
+*.ilk
+*.pdb
+*.idb
+*.pch
+*.gch
+*.d
+
+# Build directories and IDE caches
+build/
+cmake-build-*/
+.vs/
+
+# Local extensionless executable
+/LAB/lab_2
